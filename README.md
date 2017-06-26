@@ -13,4 +13,4 @@ For more information about this project including a detailed tutorial of how to 
 
 
 ## Deploy It ##
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://git.ng.bluemix.net/IDS_Samples/LaurensLovelyLandscapes)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://git.ng.bluemix.net/IDS_Samples/LaurensLovelyLandscapes)
